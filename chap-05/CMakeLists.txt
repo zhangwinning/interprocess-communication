@@ -1,0 +1,1 @@
+add_executable(01-Mqcreate 01-mqcreate1.c)
